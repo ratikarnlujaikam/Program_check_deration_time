@@ -1,0 +1,5 @@
+Time : 2024-07-11 13:38 
+Process : Oil Low duration 
+Head : 2 
+Avg last hour: 5.0283 
+Diff: 0.0153 

@@ -1,0 +1,8 @@
+Time : 08:40:01 
+Process : Oil Low duration 
+Head : 1 
+last hour: 8:00 
+Avg last hour: 5.7717 
+Oil Low duration: 5.790
+Diff: 0.0183 
+Barcode:24716299480202

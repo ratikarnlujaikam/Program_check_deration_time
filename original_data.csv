@@ -1,0 +1,62 @@
+KPIV,KPOV,sup,conf,len,id
+"['Set_Dim_C=1', 'Set_Dim_A=1', 'Datum_probe=2', 'Max_force=-3']",Projection1=pass,0.04 conf: 1.00 len: 5,1.00 len: 5,5,74
+"['Max_force=-2', 'Set_Dim_B=-2', 'Set_Dim_C=2']",Projection1=fail,0.04 conf: 1.00 len: 4,1.00 len: 4,4,44
+"['Set_Dim_B=-2', 'Set_Dim_C=2']",Projection1=fail,0.07 conf: 0.99 len: 3,0.99 len: 3,3,46
+"['Set_Dim_C=1', 'Set_Dim_B=-1', 'Max_force=-3']",Projection1=pass,0.04 conf: 0.99 len: 4,0.99 len: 4,4,65
+"['Set_Dim_C=1', 'Max_force=-3', 'Set_Dim_B=1']",Projection1=pass,0.04 conf: 0.99 len: 4,0.99 len: 4,4,32
+"['Set_Dim_C=3', 'Set_Dim_B=1']",Projection1=fail,0.04 conf: 0.98 len: 3,0.98 len: 3,3,4
+"['Set_Dim_C=1', 'Datum_probe=2', 'Max_force=-3']",Projection1=pass,0.07 conf: 0.98 len: 4,0.98 len: 4,4,77
+"['Set_Dim_C=1', 'Set_Dim_A=1', 'Datum_probe=2', 'Diecast_Pivot_2=-1']",Projection1=pass,0.04 conf: 0.98 len: 5,0.98 len: 5,5,79
+"['Set_Dim_B=-1', 'Set_Dim_A=1', 'Datum_probe=2', 'Set_Dim_C=1']",Projection1=pass,0.04 conf: 0.98 len: 5,0.98 len: 5,5,66
+"['Set_Dim_C=1', 'Datum_probe=2', 'Set_Dim_B=1']",Projection1=pass,0.07 conf: 0.98 len: 4,0.98 len: 4,4,34
+['Set_Dim_C=-4'],Projection1=fail,0.05 conf: 0.98 len: 2,0.98 len: 2,2,1
+"['Set_Dim_B=-1', 'Set_Dim_A=1', 'Set_Dim_C=1']",Projection1=pass,0.06 conf: 0.98 len: 4,0.98 len: 4,4,67
+"['Set_Dim_C=1', 'Set_Dim_A=1', 'Set_Dim_B=1']",Projection1=pass,0.04 conf: 0.97 len: 4,0.97 len: 4,4,33
+"['Set_Dim_C=1', 'Set_Dim_B=-1', 'Datum_probe=2']",Projection1=pass,0.07 conf: 0.97 len: 4,0.97 len: 4,4,69
+"['Set_Dim_C=1', 'Set_Dim_B=-1']",Projection1=pass,0.10 conf: 0.97 len: 3,0.97 len: 3,3,70
+"['Set_Dim_C=1', 'Set_Dim_A=1', 'Datum_probe=2']",Projection1=pass,0.10 conf: 0.96 len: 4,0.96 len: 4,4,84
+"['Set_Dim_C=1', 'Set_Dim_B=1']",Projection1=pass,0.08 conf: 0.96 len: 3,0.96 len: 3,3,35
+"['Datum_probe=2', 'Set_Dim_C=-1', 'Set_Dim_A=-1']",Projection1=pass,0.05 conf: 0.95 len: 4,0.95 len: 4,4,7
+"['Set_Dim_C=1', 'Max_force=-3', 'Diecast_Pivot_2=-1']",Projection1=pass,0.04 conf: 0.95 len: 4,0.95 len: 4,4,73
+"['Set_Dim_B=-2', 'Set_Dim_C=-1']",Projection1=pass,0.06 conf: 0.95 len: 3,0.95 len: 3,3,9
+['Set_Dim_A=-4'],Projection1=fail,0.05 conf: 0.95 len: 2,0.95 len: 2,2,2
+"['Datum_probe=2', 'Max_force=-3', 'Set_Dim_A=-1']",Projection1=pass,0.04 conf: 0.93 len: 4,0.93 len: 4,4,25
+"['Set_Dim_C=1', 'Datum_probe=2', 'Diecast_Pivot_2=-1']",Projection1=pass,0.07 conf: 0.93 len: 4,0.93 len: 4,4,80
+"['Set_Dim_A=1', 'Set_Dim_C=-1']",Projection1=pass,0.05 conf: 0.93 len: 3,0.93 len: 3,3,15
+['Set_Dim_B=-4'],Projection1=fail,0.04 conf: 0.93 len: 2,0.93 len: 2,2,0
+"['Max_force=-3', 'Set_Dim_C=-1']",Projection1=pass,0.06 conf: 0.93 len: 3,0.93 len: 3,3,11
+"['Set_Dim_B=-1', 'Set_Dim_C=-1']",Projection1=pass,0.05 conf: 0.93 len: 3,0.93 len: 3,3,10
+"['Set_Dim_C=1', 'Set_Dim_A=1', 'Max_force=-3']",Projection1=pass,0.07 conf: 0.92 len: 4,0.92 len: 4,4,75
+"['Set_Dim_C=1', 'Datum_probe=2']",Projection1=pass,0.17 conf: 0.92 len: 3,0.92 len: 3,3,89
+"['Set_Dim_C=1', 'Max_force=-3']",Projection1=pass,0.11 conf: 0.91 len: 3,0.91 len: 3,3,78
+"['Set_Dim_A=1', 'Datum_probe=2', 'Max_force=-3']",Projection1=pass,0.08 conf: 0.90 len: 4,0.90 len: 4,4,95
+"['Set_Dim_C=3', 'Diecast_Pivot_2=1']",Projection1=fail,0.05 conf: 0.90 len: 3,0.90 len: 3,3,5
+"['Set_Dim_C=-1', 'Set_Dim_A=-1']",Projection1=pass,0.07 conf: 0.90 len: 3,0.90 len: 3,3,8
+['Set_Dim_C=3'],Projection1=fail,0.07 conf: 0.90 len: 2,0.90 len: 2,2,6
+"['Set_Dim_C=2', 'Datum_probe=1', 'Max_force=-2']",Projection1=fail,0.06 conf: 0.89 len: 4,0.89 len: 4,4,57
+"['Datum_probe=2', 'Set_Dim_C=-1']",Projection1=pass,0.09 conf: 0.88 len: 3,0.88 len: 3,3,19
+"['Set_Dim_A=1', 'Max_force=-3', 'Set_Dim_B=1']",Projection1=pass,0.04 conf: 0.87 len: 4,0.87 len: 4,4,36
+['Set_Dim_C=-1'],Projection1=pass,0.13 conf: 0.87 len: 2,0.87 len: 2,2,20
+"['Datum_probe=1', 'Set_Dim_A=1', 'Set_Dim_C=2']",Projection1=fail,0.05 conf: 0.87 len: 4,0.87 len: 4,4,56
+"['Set_Dim_B=-1', 'Diecast_Pivot_2=1', 'Set_Dim_C=2']",Projection1=fail,0.06 conf: 0.86 len: 4,0.86 len: 4,4,53
+"['Set_Dim_C=1', 'Set_Dim_A=2']",Projection1=pass,0.04 conf: 0.86 len: 3,0.86 len: 3,3,21
+"['Set_Dim_B=-1', 'Set_Dim_A=1', 'Set_Dim_C=2']",Projection1=fail,0.06 conf: 0.85 len: 4,0.85 len: 4,4,51
+"['Set_Dim_B=-1', 'Set_Dim_C=2']",Projection1=fail,0.09 conf: 0.85 len: 3,0.85 len: 3,3,55
+"['Datum_probe=2', 'Max_force=-3', 'Set_Dim_B=1']",Projection1=pass,0.06 conf: 0.85 len: 4,0.85 len: 4,4,37
+"['Set_Dim_A=1', 'Max_force=-3', 'Diecast_Pivot_2=-1']",Projection1=pass,0.05 conf: 0.84 len: 4,0.84 len: 4,4,91
+"['Datum_probe=1', 'Diecast_Pivot_2=1', 'Set_Dim_C=2']",Projection1=fail,0.06 conf: 0.83 len: 4,0.83 len: 4,4,58
+"['Max_force=-3', 'Set_Dim_A=-1']",Projection1=pass,0.06 conf: 0.83 len: 3,0.83 len: 3,3,26
+"['Max_force=-2', 'Diecast_Pivot_2=1', 'Set_Dim_A=1', 'Set_Dim_C=2']",Projection1=fail,0.05 conf: 0.80 len: 5,0.80 len: 5,5,60
+"['Datum_probe=1', 'Set_Dim_B=-2', 'Max_force=-2']",Projection1=fail,0.06 conf: 0.80 len: 4,0.80 len: 4,4,48
+"['Set_Dim_B=-1', 'Datum_probe=2', 'Max_force=-3']",Projection1=pass,0.05 conf: 0.80 len: 4,0.80 len: 4,4,71
+"['Datum_probe=2', 'Max_force=-3', 'Diecast_Pivot_2=1']",Projection1=pass,0.08 conf: 0.79 len: 4,0.79 len: 4,4,97
+"['Datum_probe=1', 'Diecast_Pivot_2=1', 'Max_force=-2']",Projection1=fail,0.09 conf: 0.79 len: 4,0.79 len: 4,4,102
+"['Datum_probe=2', 'Max_force=-3']",Projection1=pass,0.15 conf: 0.78 len: 3,0.78 len: 3,3,98
+"['Datum_probe=1', 'Max_force=-2']",Projection1=fail,0.16 conf: 0.78 len: 3,0.78 len: 3,3,103
+"['Set_Dim_A=1', 'Max_force=-3']",Projection1=pass,0.13 conf: 0.78 len: 3,0.78 len: 3,3,96
+"['Max_force=-2', 'Set_Dim_A=1', 'Set_Dim_C=2']",Projection1=fail,0.07 conf: 0.77 len: 4,0.77 len: 4,4,61
+"['Set_Dim_C=2', 'Datum_probe=2', 'Set_Dim_B=1']",Projection1=pass,0.05 conf: 0.76 len: 4,0.76 len: 4,4,30
+"['Datum_probe=2', 'Set_Dim_B=1', 'Diecast_Pivot_2=-1']",Projection1=pass,0.05 conf: 0.76 len: 4,0.76 len: 4,4,39
+"['Max_force=-3', 'Set_Dim_B=1']",Projection1=pass,0.07 conf: 0.76 len: 3,0.76 len: 3,3,38
+"['Max_force=-2', 'Diecast_Pivot_2=1', 'Set_Dim_C=2']",Projection1=fail,0.07 conf: 0.75 len: 4,0.75 len: 4,4,63
+"['Set_Dim_B=-2', 'Set_Dim_A=-1']",Projection1=pass,0.05 conf: 0.75 len: 3,0.75 len: 3,3,

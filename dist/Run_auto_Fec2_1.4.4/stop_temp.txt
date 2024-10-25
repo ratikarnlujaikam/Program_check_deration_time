@@ -1,0 +1,3 @@
+2024_07_31: 08:52:00 :Close application
+2024_07_31: 08:53:16 :setting
+2024_07_31: 09:00:28 :Close application

@@ -1,0 +1,8 @@
+Time : 08:40:07 
+Process : Oil Up duration 
+Head : 1 
+last hour: 8:00 
+Avg last hour: 4.2286 
+Oil Up duration: 4.232
+Diff: 0.0034 
+Barcode:24716299440202

@@ -1,0 +1,6400 @@
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0347 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0357 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0397 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0357 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0397 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0377 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0367 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0357 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0377 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0347 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0347 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0297 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0457 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0567 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0437 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0417 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0427 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0367 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0427 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0377 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0357 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0457 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0417 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0367 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0357 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0297 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0107 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0157 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0167 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0517 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0417 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0417 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0457 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0107 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0137 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0117 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0273 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0273 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0273 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0293 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0273 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0303 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0353 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0303 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0323 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0313 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0273 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0293 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0233 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0147 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0157 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0117 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0137 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0167 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0297 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0407 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0397 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0297 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0367 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0387 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0407 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0147 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0363 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0403 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0633 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0743 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0803 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0843 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0873 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0823 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0933 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0873 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0943 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0903 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1043 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0973 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1023 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1033 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1043 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1053 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1043 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1053 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0983 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0853 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0813 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0773 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0803 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0813 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0833 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0903 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0983 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0347 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0357 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0397 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0357 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0397 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0377 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0367 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0357 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0377 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0347 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0347 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0297 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0457 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0567 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0437 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0417 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0427 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0367 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0427 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0377 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0357 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0457 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0417 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0367 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0357 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0297 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0107 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0157 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0167 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0517 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0417 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0417 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0457 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0107 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0137 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0117 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0273 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0273 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0273 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0293 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0273 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0303 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0353 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0303 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0323 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0313 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0273 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0293 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0233 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0147 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0157 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0117 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0137 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0167 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0297 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0407 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0397 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0297 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0367 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0387 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0407 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0147 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0363 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0403 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0633 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0743 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0803 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0843 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0873 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0823 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0933 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0873 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0943 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0903 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1043 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0973 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1023 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1033 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1043 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1123 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1053 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1043 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1053 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1163 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0983 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0853 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0813 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0773 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0803 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0813 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0833 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0903 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0983 
+Time : 2024-03-01 08:48 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0993 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0943 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0903 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0993 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0943 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:50 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0903 
+Time : 2024-03-01 08:53 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:53 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0993 
+Time : 2024-03-01 08:53 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:53 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:53 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:53 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:53 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0993 
+Time : 2024-03-01 08:53 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:53 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:53 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0233 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0173 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0147 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0157 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0117 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0137 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0167 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0297 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0407 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0397 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0297 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0367 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0387 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0407 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0147 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0363 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0403 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0433 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0633 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0743 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0803 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0843 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0873 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0823 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0933 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0873 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0943 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0903 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1043 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0973 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1023 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1033 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1043 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1053 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1043 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1053 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1163 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0983 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0853 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0813 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0773 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0803 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0813 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0833 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0903 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0983 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0993 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0943 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0903 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0993 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1023 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1013 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0813 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0943 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0983 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1003 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1003 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0973 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0973 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0973 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1033 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0233 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0243 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0173 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0147 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0157 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0117 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0137 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0247 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0217 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0207 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0167 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0227 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0177 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0197 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0237 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0297 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0327 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0307 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0317 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0407 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0287 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0277 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0187 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0397 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0297 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0367 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0337 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0267 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0387 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0407 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0257 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0147 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0363 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0403 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0283 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0433 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0633 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0743 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0803 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0843 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0873 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0823 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0933 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0873 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0943 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0903 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1043 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0973 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1023 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1033 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1043 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1123 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1053 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1043 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1053 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1163 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0983 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0853 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0813 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0773 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0803 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0813 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0833 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0903 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0983 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0993 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0943 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0863 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0903 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0883 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0993 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1023 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1013 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0813 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0963 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0893 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0943 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0983 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0923 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0953 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1003 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1003 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0973 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0973 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0973 
+Time : 2024-03-01 08:57 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1033 
+Time : 2024-03-01 08:58 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:58 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1023 
+Time : 2024-03-01 08:58 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1003 
+Time : 2024-03-01 08:58 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.0913 
+Time : 2024-03-01 08:58 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1023 
+Time : 2024-03-01 08:58 
+Process : Oil Low duration 
+Avg last hour: 4.4483 
+Diff: 0.1003 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0666 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0656 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0686 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0526 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0546 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0546 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0666 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0666 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0696 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0716 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0706 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0686 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0646 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0486 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0496 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0496 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0526 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0686 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0666 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0676 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0656 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0646 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0546 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0666 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0526 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0506 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0526 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0526 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0466 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0386 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0426 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0446 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0446 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0486 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0506 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0456 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0456 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0496 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0496 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0556 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0496 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0556 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0526 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0546 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0656 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0506 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0556 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0666 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0716 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0546 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0656 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0696 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0646 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0656 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0666 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0656 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0686 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0526 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0546 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0546 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0666 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0666 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0696 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0716 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0706 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0686 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0646 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0486 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0496 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0496 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0526 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0686 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0666 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0676 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0656 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0646 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0546 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0666 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0526 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0506 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0526 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0526 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0466 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0386 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0426 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0446 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0446 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0486 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0506 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0456 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0456 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0496 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0496 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0556 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0496 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0556 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0526 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0546 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0656 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0576 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0516 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0506 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0556 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0666 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0716 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0586 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0596 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0606 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0566 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0546 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0656 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0696 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0646 
+Time : 2024-03-01 09:39 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0656 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0646 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0676 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0506 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0436 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0616 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0636 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0646 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0676 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0626 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0506 
+Time : 2024-03-01 09:41 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0436 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0426 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0456 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0456 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0486 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0486 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0456 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0426 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0456 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0456 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0486 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0486 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0456 
+Time : 2024-03-01 09:42 
+Process : Oil Low duration 
+Avg last hour: 4.4146 
+Diff: 0.0536 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0371 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0381 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0351 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0371 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0371 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0401 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0481 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0401 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0421 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0341 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0321 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0391 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0301 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0331 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0331 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0321 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0341 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0301 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0361 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0331 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0341 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0251 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0281 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0351 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0271 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0251 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0331 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0411 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0331 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0281 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0361 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0241 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0271 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0291 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0371 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0381 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0351 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0371 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0371 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0401 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0481 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0401 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0421 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0341 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0321 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0391 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0301 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0331 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0331 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0321 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0341 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0301 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0361 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0331 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0341 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0251 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0281 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0351 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0271 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0251 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0331 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0411 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0331 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0281 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0361 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0241 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0271 
+Time : 2024-03-05 07:33 
+Process : Oil Low duration 
+Avg last hour: 4.3149 
+Diff: 0.0291 

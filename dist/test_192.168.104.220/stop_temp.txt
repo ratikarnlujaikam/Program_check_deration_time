@@ -1,0 +1,33 @@
+2024_07_25: 10:50:22 :setting
+2024_07_25: 10:50:47 :reset
+2024_07_25: 11:00:06 :setting
+2024_07_25: 13:42:45 :setting
+2024_07_25: 15:09:18 :reset
+2024_07_25: 15:09:37 :reset
+2024_07_25: 16:44:20 :reset
+2024_07_25: 20:15:56 :reset
+2024_07_25: 21:44:21 :reset
+2024_07_25: 23:47:45 :reset
+2024_07_25: 23:48:25 :reset
+2024_07_26: 02:38:32 :reset
+2024_07_26: 11:50:40 :reset
+2024_07_26: 13:29:40 :reset
+2024_07_26: 14:34:21 :Close application
+2024_07_26: 14:37:23 :Reset Auto Skip Time
+2024_07_26: 18:13:03 :reset
+2024_07_26: 19:00:19 :Reset Auto Skip Time
+2024_07_26: 21:17:08 :reset
+2024_07_26: 22:00:10 :Reset Auto Skip Time
+2024_07_30: 13:59:57 :Reset Auto Skip Time
+2024_07_30: 14:00:59 :Reset Auto Skip Time
+2024_07_30: 15:01:02 :Reset Auto Skip Time
+2024_07_30: 16:00:05 :Reset Auto Skip Time
+2024_07_30: 17:00:11 :Reset Auto Skip Time
+2024_07_30: 18:09:11 :reset
+2024_07_30: 19:00:13 :Reset Auto Skip Time
+2024_07_30: 23:49:02 :reset
+2024_07_31: 07:01:01 :Reset Auto Skip Time
+2024_07_31: 08:00:04 :Reset Auto Skip Time
+2024_07_31: 09:00:09 :Reset Auto Skip Time
+2024_07_31: 08:57:49 :Reset Auto Skip Time
+2024_07_31: 09:02:27 :Close application

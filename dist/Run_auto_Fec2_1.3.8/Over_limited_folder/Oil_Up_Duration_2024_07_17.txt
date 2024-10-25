@@ -1,0 +1,4 @@
+Date,Time,Process,Head,Last Hour,Avg Last Hour,Value,Diff,Barcode
+2024_07_17,08:40:07,Oil Up duration,1,8:00,4.2286,4.232, 0.0034,24716299440202
+2024_07_17,08:40:07,Oil Up duration,1,8:00,4.2286,4.232, 0.0034,24716299440202
+2024_07_17,08:40:01,Oil Up duration,2,8:00,5.0990,5.085, 0.0140,24716299480202

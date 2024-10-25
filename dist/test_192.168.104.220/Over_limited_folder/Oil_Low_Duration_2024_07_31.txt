@@ -1,0 +1,2 @@
+Date,Time,Process,Head,Last Hour,Avg Last Hour,Value,Diff,Barcode
+2024_07_31,05:38:46,Oil Low duration,2,5:00,5.4645,5.843, 0.3785,24730111380101

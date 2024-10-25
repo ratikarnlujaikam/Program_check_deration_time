@@ -1,0 +1,6 @@
+KPIV: Set_Dim_B=-2,Diecast_Pivot_2=1,Set_Dim_C=2
+KPOV: Projection1=fail
+Sup: 0.04 conf: 1.00 len: 4
+Confidence: None
+id: 45
+----------------------------------------

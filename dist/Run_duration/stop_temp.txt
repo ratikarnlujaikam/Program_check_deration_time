@@ -1,0 +1,6 @@
+2024_09_09: 10:19:13 :Reset Auto Skip Time ,reset start run
+2024_09_09: 10:19:52 :Close application
+2024_09_12: 18:13:03 :Reset Auto Skip Time ,reset start run
+2024_09_12: 18:13:12 :setting
+2024_10_24: 12:21:11 :Reset Auto Skip Time ,reset start run
+2024_10_24: 12:22:17 :setting

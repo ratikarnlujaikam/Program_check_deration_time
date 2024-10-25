@@ -1,0 +1,113 @@
+Time : 09:28:17 
+Process : Oil Low duration 
+Head : 2 
+last hour: 11:00 
+Avg last hour: 5.8481 
+Oil Low duration: 5.241
+Diff: 0.6071 
+Barcode:24723058690101Time : 12:28:50 
+Process : Oil Low duration 
+Head : 2 
+last hour: 11:00 
+Avg last hour: 5.8481 
+Oil Low duration: 6.228
+Diff: 0.3799 
+Barcode:24723113440101Time : 12:37:32 
+Process : Oil Low duration 
+Head : 2 
+last hour: 11:00 
+Avg last hour: 5.8481 
+Oil Low duration: 6.270
+Diff: 0.4219 
+Barcode:24723112030101Time : 12:40:34 
+Process : Oil Low duration 
+Head : 2 
+last hour: 11:00 
+Avg last hour: 5.8481 
+Oil Low duration: 6.063
+Diff: 0.2149 
+Barcode:24723112360101Time : 12:43:34 
+Process : Oil Low duration 
+Head : 2 
+last hour: 11:00 
+Avg last hour: 5.8481 
+Oil Low duration: 5.918
+Diff: 0.0699 
+Barcode:24723111210101Time : 12:46:33 
+Process : Oil Low duration 
+Head : 2 
+last hour: 11:00 
+Avg last hour: 5.8481 
+Oil Low duration: 5.973
+Diff: 0.1249 
+Barcode:24723111040101Time : 12:49:32 
+Process : Oil Low duration 
+Head : 2 
+last hour: 11:00 
+Avg last hour: 5.8481 
+Oil Low duration: 5.996
+Diff: 0.1479 
+Barcode:24723120590101Time : 12:52:30 
+Process : Oil Low duration 
+Head : 2 
+last hour: 11:00 
+Avg last hour: 5.8481 
+Oil Low duration: 6.029
+Diff: 0.1809 
+Barcode:24723120650101Time : 12:55:33 
+Process : Oil Low duration 
+Head : 2 
+last hour: 11:00 
+Avg last hour: 5.8481 
+Oil Low duration: 6.242
+Diff: 0.3939 
+Barcode:24723121320101Time : 12:58:33 
+Process : Oil Low duration 
+Head : 2 
+last hour: 12:00 
+Avg last hour: 6.2132 
+Oil Low duration: 6.328
+Diff: 0.1148 
+Barcode:24723121330101Time : 13:01:32 
+Process : Oil Low duration 
+Head : 2 
+last hour: 12:00 
+Avg last hour: 6.2132 
+Oil Low duration: 6.098
+Diff: 0.1152 
+Barcode:24723119270101Time : 13:04:34 
+Process : Oil Low duration 
+Head : 2 
+last hour: 12:00 
+Avg last hour: 6.2132 
+Oil Low duration: 6.552
+Diff: 0.3388 
+Barcode:24723119420101Time : 13:07:46 
+Process : Oil Low duration 
+Head : 2 
+last hour: 12:00 
+Avg last hour: 6.2132 
+Oil Low duration: 6.480
+Diff: 0.2668 
+Barcode:24723119670101Time : 13:10:50 
+Process : Oil Low duration 
+Head : 2 
+last hour: 12:00 
+Avg last hour: 6.2132 
+Oil Low duration: 6.566
+Diff: 0.3528 
+Barcode:24723119870101Time : 14:08:38 
+Process : Oil Low duration 
+Head : 2 
+last hour: 13:00 
+Avg last hour: 6.7691 
+Oil Low duration: 7.075
+Diff: 0.3059 
+Barcode:24723116800101Time : 15:17:54 
+Process : Oil Low duration 
+Head : 2 
+last hour: 14:00 
+Avg last hour: 6.9823 
+Oil Low duration: 7.308
+Diff: 0.3257 
+Barcode:24723098390101

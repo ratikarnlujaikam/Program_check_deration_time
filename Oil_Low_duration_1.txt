@@ -1,0 +1,603 @@
+Time : 08:08:42 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.409
+Diff: 0.0061 
+Barcode:24716053050202Time : 08:14:07 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.409
+Diff: 0.0061 
+Barcode:24716052230203Time : 08:15:13 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.409
+Diff: 0.0061 
+Barcode:24716052450202Time : 08:16:06 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.402
+Diff: 0.0131 
+Barcode:24716052330202Time : 08:17:12 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.419
+Diff: 0.0039 
+Barcode:24716053710203Time : 08:18:18 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.397
+Diff: 0.0181 
+Barcode:24716053930202Time : 08:19:11 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.409
+Diff: 0.0061 
+Barcode:24716053810202Time : 08:20:18 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.408
+Diff: 0.0071 
+Barcode:24716055770202Time : 08:22:14 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.410
+Diff: 0.0051 
+Barcode:24716055410203Time : 08:23:08 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.402
+Diff: 0.0131 
+Barcode:24716054410203Time : 08:25:10 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.409
+Diff: 0.0061 
+Barcode:24716054670202Time : 08:26:18 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.406
+Diff: 0.0091 
+Barcode:24716052010203Time : 08:27:13 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.404
+Diff: 0.0111 
+Barcode:24716051940203Time : 08:28:21 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.404
+Diff: 0.0111 
+Barcode:24716051870203Time : 08:29:17 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.410
+Diff: 0.0051 
+Barcode:24716052270202Time : 08:30:22 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.404
+Diff: 0.0111 
+Barcode:24716052150202Time : 08:31:27 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.414
+Diff: 0.0011 
+Barcode:24716053160203Time : 08:32:33 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.408
+Diff: 0.0071 
+Barcode:24716053490202Time : 08:34:30 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.410
+Diff: 0.0051 
+Barcode:24716053430203Time : 08:35:36 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.406
+Diff: 0.0091 
+Barcode:24716053690202Time : 08:36:43 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.393
+Diff: 0.0221 
+Barcode:24716053560202Time : 08:38:30 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.399
+Diff: 0.0161 
+Barcode:24716052370203Time : 08:39:37 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.407
+Diff: 0.0081 
+Barcode:24716052730202Time : 08:40:31 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.397
+Diff: 0.0181 
+Barcode:24716052710202Time : 08:41:39 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.412
+Diff: 0.0031 
+Barcode:24716052630202Time : 08:42:34 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.414
+Diff: 0.0011 
+Barcode:24716053590202Time : 08:43:42 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.401
+Diff: 0.0141 
+Barcode:24716053310203Time : 08:45:18 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.416
+Diff: 0.0009 
+Barcode:24716053290202Time : 08:46:27 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.410
+Diff: 0.0051 
+Barcode:24716053230203Time : 08:47:19 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.405
+Diff: 0.0101 
+Barcode:24716052110202Time : 08:48:25 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.419
+Diff: 0.0039 
+Barcode:24716055740202Time : 08:49:31 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.410
+Diff: 0.0051 
+Barcode:24716055630203Time : 08:50:23 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.401
+Diff: 0.0141 
+Barcode:24716054380203Time : 08:52:05 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.412
+Diff: 0.0031 
+Barcode:24716054650202Time : 08:52:59 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.403
+Diff: 0.0121 
+Barcode:24716052240203Time : 08:54:04 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.403
+Diff: 0.0121 
+Barcode:24716052060203Time : 08:56:04 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.425
+Diff: 0.0099 
+Barcode:24711146000202Time : 08:56:45 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.413
+Diff: 0.0021 
+Barcode:24712021550202Time : 08:57:53 
+Process : Oil Low duration 
+Head : 1 
+last hour: 7:00 
+Avg last hour: 5.4151 
+Oil Low duration: 5.420
+Diff: 0.0049 
+Barcode:24711111580202Time : 08:59:00 
+Process : Oil Low duration 
+Head : 1 
+last hour: 8:00 
+Avg last hour: 5.4099 
+Oil Low duration: 5.416
+Diff: 0.0061 
+Barcode:24711132050202Time : 09:00:22 
+Process : Oil Low duration 
+Head : 1 
+last hour: 8:00 
+Avg last hour: 5.4099 
+Oil Low duration: 5.411
+Diff: 0.0011 
+Barcode:24712021400202Time : 09:06:25 
+Process : Oil Low duration 
+Head : 1 
+last hour: 8:00 
+Avg last hour: 5.4099 
+Oil Low duration: 5.409
+Diff: 0.0009 
+Barcode:24711148570202Time : 09:12:34 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.400
+Diff: 0.0031 
+Barcode:24711141070203Time : 10:05:31 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.385
+Diff: 0.0181 
+Barcode:24713156010203Time : 10:07:19 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.396
+Diff: 0.0071 
+Barcode:24713152800203Time : 10:09:08 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.393
+Diff: 0.0101 
+Barcode:24713152790203Time : 10:10:30 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.393
+Diff: 0.0101 
+Barcode:24712063240202Time : 10:14:44 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.392
+Diff: 0.0111 
+Barcode:24713154640203Time : 10:15:50 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.391
+Diff: 0.0121 
+Barcode:24713154790202Time : 10:16:42 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.387
+Diff: 0.0161 
+Barcode:24713239390202Time : 10:18:40 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.379
+Diff: 0.0241 
+Barcode:24713239350203Time : 10:19:33 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.385
+Diff: 0.0181 
+Barcode:24713239290203Time : 10:20:40 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.388
+Diff: 0.0151 
+Barcode:24713239520203Time : 10:21:33 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.378
+Diff: 0.0251 
+Barcode:24713239500203Time : 09:35:16 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.399
+Diff: 0.0041 
+Barcode:24713180030202Time : 09:35:16 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.4031 
+Oil Low duration: 5.399
+Diff: 0.0041 
+Barcode:24713180030202Time : 11:33:54 
+Process : Oil Low duration 
+Head : 1 
+last hour: 13:00 
+Avg last hour: 5.3601 
+Oil Low duration: 5.397
+Diff: 0.0369 
+Barcode:24713154750202Time : 14:08:29 
+Process : Oil Low duration 
+Head : 1 
+last hour: 13:00 
+Avg last hour: 5.3601 
+Oil Low duration: 5.362
+Diff: 0.0019 
+Barcode:24716049580203Time : 14:09:24 
+Process : Oil Low duration 
+Head : 1 
+last hour: 13:00 
+Avg last hour: 5.3601 
+Oil Low duration: 5.364
+Diff: 0.0039 
+Barcode:24716050730203Time : 14:10:32 
+Process : Oil Low duration 
+Head : 1 
+last hour: 13:00 
+Avg last hour: 5.3601 
+Oil Low duration: 5.366
+Diff: 0.0059 
+Barcode:24716050650203Time : 08:30:08 
+Process : Oil Low duration 
+Head : 1 
+last hour: 8:00 
+Avg last hour: 5.7684 
+Oil Low duration: 5.782
+Diff: 0.0136 
+Barcode:24716301870202Time : 08:56:05 
+Process : Oil Low duration 
+Head : 1 
+last hour: 9:00 
+Avg last hour: 5.8276 
+Oil Low duration: 5.812
+Diff: 0.0156 
+Barcode:24716275400202Time : 10:05:04 
+Process : Oil Low duration 
+Head : 1 
+last hour: 11:00 
+Avg last hour: 5.0459 
+Oil Low duration: 5.080
+Diff: 0.0341 
+Barcode:24717068820203Time : 12:22:24 
+Process : Oil Low duration 
+Head : 1 
+last hour: 11:00 
+Avg last hour: 5.0459 
+Oil Low duration: 5.104
+Diff: 0.0581 
+Barcode:24717070750202Time : 12:52:59 
+Process : Oil Low duration 
+Head : 1 
+last hour: 11:00 
+Avg last hour: 5.0459 
+Oil Low duration: 5.076
+Diff: 0.0301 
+Barcode:24717123540202Time : 12:56:56 
+Process : Oil Low duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.0609 
+Oil Low duration: 5.091
+Diff: 0.0301 
+Barcode:24717121130202Time : 13:05:53 
+Process : Oil Low duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.0609 
+Oil Low duration: 5.108
+Diff: 0.0471 
+Barcode:24717130180203Time : 13:07:04 
+Process : Oil Low duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.0609 
+Oil Low duration: 5.103
+Diff: 0.0421 
+Barcode:24717130540202Time : 13:12:12 
+Process : Oil Low duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.0609 
+Oil Low duration: 5.093
+Diff: 0.0321 
+Barcode:24717123740203Time : 13:17:01 
+Process : Oil Low duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.0609 
+Oil Low duration: 5.097
+Diff: 0.0361 
+Barcode:24717124470203Time : 13:22:09 
+Process : Oil Low duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.0609 
+Oil Low duration: 5.093
+Diff: 0.0321 
+Barcode:24717121960203Time : 12:22:24 
+Process : Oil Low duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.0609 
+Oil Low duration: 5.104
+Diff: 0.0431 
+Barcode:24717070750202Time : 12:22:24 
+Process : Oil Low duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.0609 
+Oil Low duration: 5.104
+Diff: 0.0431 
+Barcode:24717070750202Time : 12:22:24 
+Process : Oil Low duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.0609 
+Oil Low duration: 5.104
+Diff: 0.0431 
+Barcode:24717070750202Time : 12:22:24 
+Process : Oil Low duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.0609 
+Oil Low duration: 5.104
+Diff: 0.0431 
+Barcode:24717070750202Time : 11:50:57 
+Process : Oil Low duration 
+Head : 1 
+last hour: 13:00 
+Avg last hour: 5.1011 
+Oil Low duration: 5.048
+Diff: 0.0531 
+Barcode:24717061150203Time : 11:50:29 
+Process : Oil Low duration 
+Head : 1 
+last hour: 13:00 
+Avg last hour: 5.1011 
+Oil Low duration: 5.047
+Diff: 0.0541 
+Barcode:24717061170203Time : 14:46:19 
+Process : Oil Low duration 
+Head : 1 
+last hour: 13:00 
+Avg last hour: 5.1011 
+Oil Low duration: 5.138
+Diff: 0.0369 
+Barcode:24717125580203Time : 11:50:29 
+Process : Oil Low duration 
+Head : 1 
+last hour: 13:00 
+Avg last hour: 5.1011 
+Oil Low duration: 5.047
+Diff: 0.0541 
+Barcode:24717061170203Time : 11:50:43 
+Process : Oil Low duration 
+Head : 1 
+last hour: 13:00 
+Avg last hour: 5.1011 
+Oil Low duration: 5.046
+Diff: 0.0551 
+Barcode:24717061140203Time : 11:50:15 
+Process : Oil Low duration 
+Head : 1 
+last hour: 14:00 
+Avg last hour: 5.1180 
+Oil Low duration: 5.048
+Diff: 0.0700 
+Barcode:24717060580202Time : 11:50:57 
+Process : Oil Low duration 
+Head : 1 
+last hour: 14:00 
+Avg last hour: 5.1180 
+Oil Low duration: 5.048
+Diff: 0.0700 
+Barcode:24717061150203Time : 11:50:29 
+Process : Oil Low duration 
+Head : 1 
+last hour: 14:00 
+Avg last hour: 5.1180 
+Oil Low duration: 5.047
+Diff: 0.0710 
+Barcode:24717061170203Time : 16:55:19 
+Process : Oil Low duration 
+Head : 1 
+last hour: 16:00 
+Avg last hour: 4.7000 
+Oil Low duration: 4.691
+Diff: 0.0090 
+Barcode:24810013640203Time : 17:08:42 
+Process : Oil Low duration 
+Head : 1 
+last hour: 16:00 
+Avg last hour: 4.7000 
+Oil Low duration: 4.691
+Diff: 0.0090 
+Barcode:24809103600202Time : 17:13:50 
+Process : Oil Low duration 
+Head : 1 
+last hour: 16:00 
+Avg last hour: 4.7000 
+Oil Low duration: 4.693
+Diff: 0.0070 
+Barcode:24809103270203

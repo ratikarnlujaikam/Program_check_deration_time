@@ -1,0 +1,99 @@
+Time : 12:10:13 
+Process : Oil Up duration 
+Head : 1 
+last hour: 11:00 
+Avg last hour: 5.1665 
+Oil Up duration: 5.483
+Diff: 0.3165 
+Barcode:24723115650101Time : 12:28:50 
+Process : Oil Up duration 
+Head : 1 
+last hour: 11:00 
+Avg last hour: 5.1665 
+Oil Up duration: 5.368
+Diff: 0.2015 
+Barcode:24723113440101Time : 12:37:32 
+Process : Oil Up duration 
+Head : 1 
+last hour: 11:00 
+Avg last hour: 5.1665 
+Oil Up duration: 5.380
+Diff: 0.2135 
+Barcode:24723112030101Time : 12:40:34 
+Process : Oil Up duration 
+Head : 1 
+last hour: 11:00 
+Avg last hour: 5.1665 
+Oil Up duration: 5.396
+Diff: 0.2295 
+Barcode:24723112360101Time : 12:43:34 
+Process : Oil Up duration 
+Head : 1 
+last hour: 11:00 
+Avg last hour: 5.1665 
+Oil Up duration: 5.381
+Diff: 0.2145 
+Barcode:24723111210101Time : 12:46:33 
+Process : Oil Up duration 
+Head : 1 
+last hour: 11:00 
+Avg last hour: 5.1665 
+Oil Up duration: 5.377
+Diff: 0.2105 
+Barcode:24723111040101Time : 12:49:32 
+Process : Oil Up duration 
+Head : 1 
+last hour: 11:00 
+Avg last hour: 5.1665 
+Oil Up duration: 5.386
+Diff: 0.2195 
+Barcode:24723120590101Time : 12:52:30 
+Process : Oil Up duration 
+Head : 1 
+last hour: 11:00 
+Avg last hour: 5.1665 
+Oil Up duration: 5.405
+Diff: 0.2385 
+Barcode:24723120650101Time : 12:55:33 
+Process : Oil Up duration 
+Head : 1 
+last hour: 11:00 
+Avg last hour: 5.1665 
+Oil Up duration: 5.405
+Diff: 0.2385 
+Barcode:24723121320101Time : 12:58:33 
+Process : Oil Up duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.3596 
+Oil Up duration: 5.394
+Diff: 0.0344 
+Barcode:24723121330101Time : 13:01:32 
+Process : Oil Up duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.3596 
+Oil Up duration: 5.398
+Diff: 0.0384 
+Barcode:24723119270101Time : 13:04:34 
+Process : Oil Up duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.3596 
+Oil Up duration: 5.410
+Diff: 0.0504 
+Barcode:24723119420101Time : 13:07:46 
+Process : Oil Up duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.3596 
+Oil Up duration: 5.456
+Diff: 0.0964 
+Barcode:24723119670101Time : 13:10:50 
+Process : Oil Up duration 
+Head : 1 
+last hour: 12:00 
+Avg last hour: 5.3596 
+Oil Up duration: 5.410
+Diff: 0.0504 
+Barcode:24723119870101

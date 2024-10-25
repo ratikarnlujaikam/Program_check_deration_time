@@ -1,0 +1,5 @@
+Time : 2024-07-11 13:38 
+Process : Oil Up duration 
+Head : 2 
+Avg last hour: 4.9213 
+Diff: 0.0113 

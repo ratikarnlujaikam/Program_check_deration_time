@@ -1,0 +1,6050 @@
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0573 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0523 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0533 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0563 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0593 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0543 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0593 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0593 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0613 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0573 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0583 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0493 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0403 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0413 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0473 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0543 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0563 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0533 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0603 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0583 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0543 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0533 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0563 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0703 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 4.6737 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0773 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0703 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0633 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 4.6737 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0703 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0713 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0673 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0673 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0703 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0643 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0633 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0673 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0743 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0603 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0523 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0563 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0473 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0543 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0473 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0473 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0493 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0503 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0473 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0493 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0503 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0533 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0543 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0523 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0533 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0403 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0493 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0493 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0423 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0413 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0473 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0503 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0383 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0403 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 4.6737 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0293 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0573 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0523 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0533 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0563 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0593 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0543 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0593 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0593 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0613 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0573 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0583 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0493 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0403 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0413 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0473 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0543 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0563 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0533 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0603 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0583 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0543 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0533 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0563 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0703 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 4.6737 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0773 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0703 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0633 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 4.6737 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0703 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0713 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0673 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0673 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0703 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0643 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0633 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0673 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0743 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0603 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0523 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0563 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0473 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0543 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0473 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0473 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0493 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0503 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0473 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0493 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0503 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0533 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0543 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0523 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0553 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0533 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0403 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0493 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0493 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0453 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0423 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0413 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0473 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0503 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0513 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0463 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0483 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0383 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0403 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0443 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0433 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0263 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 4.6737 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0223 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0253 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0293 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:48 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:50 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:50 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:50 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:50 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:53 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:53 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0223 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0253 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0293 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0213 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0223 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0183 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0253 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0293 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0193 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0163 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0173 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0153 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0133 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0203 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0123 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0103 
+Time : 2024-03-01 08:57 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:58 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:58 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 08:58 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0143 
+Time : 2024-03-01 08:58 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6737 
+Diff: 0.0113 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0343 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 4.6837 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0403 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0333 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0313 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0567 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0537 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0597 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0497 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0617 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0587 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0597 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0497 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0517 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0527 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0577 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0567 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0607 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0387 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0407 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0367 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0367 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0387 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0387 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0407 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0387 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0487 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0427 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0387 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0367 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0427 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0407 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0387 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0427 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0367 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0367 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0407 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0497 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0487 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0517 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0427 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0517 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0407 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0487 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0577 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0527 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0547 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0427 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0427 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0497 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0407 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0487 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0343 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 4.6837 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0403 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0333 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0313 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0567 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0537 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0597 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0497 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0617 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0587 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0597 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0497 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0517 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0527 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0577 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0567 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0607 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0387 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0407 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0367 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0367 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0387 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0387 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0407 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0387 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0487 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0427 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0387 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0367 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0427 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0407 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0387 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0427 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0367 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0367 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0407 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0377 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0357 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0397 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0497 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0487 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0517 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0427 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0517 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0407 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0487 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0577 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0527 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0547 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0427 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0427 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0457 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0497 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0407 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0437 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0487 
+Time : 2024-03-01 09:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0487 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0517 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0497 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0497 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0487 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0417 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0517 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0467 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0497 
+Time : 2024-03-01 09:41 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0497 
+Time : 2024-03-01 09:42 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:42 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:42 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:42 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:42 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0517 
+Time : 2024-03-01 09:42 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-01 09:42 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0447 
+Time : 2024-03-01 09:42 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:42 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:42 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0477 
+Time : 2024-03-01 09:42 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0517 
+Time : 2024-03-01 09:42 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.6837 
+Diff: 0.0507 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0488 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0458 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0538 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0498 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0528 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0468 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0438 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0548 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0448 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0448 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0458 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0538 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0458 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0448 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0528 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0468 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0398 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0458 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0408 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0508 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0428 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0448 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0388 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0408 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0418 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0338 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0398 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0428 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0328 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0438 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0478 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0358 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0488 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0458 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0538 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0498 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0528 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0468 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0438 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0548 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0448 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0448 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0458 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0538 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0458 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0448 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0528 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0468 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0398 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0458 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0408 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0508 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0428 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0448 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0388 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0408 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0418 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0338 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0398 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0428 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0328 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0438 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0478 
+Time : 2024-03-05 07:33 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 3.9812 
+Diff: 0.0358 
+Time : 2024-03-05 08:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.7408 
+Diff: 4.7408 
+Time : 2024-03-05 08:39 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.7408 
+Diff: 4.7408 
+Time : 2024-03-05 09:49 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.7697 
+Diff: 4.7697 
+Time : 2024-03-05 09:49 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.7697 
+Diff: 4.7697 
+Time : 2024-03-05 09:49 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.7697 
+Diff: 4.7697 
+Time : 2024-03-05 09:49 
+Process : Oil Up duration 
+Head : 1 
+Avg last hour: 4.7697 
+Diff: 4.7697 
